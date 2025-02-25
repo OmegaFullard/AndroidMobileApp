@@ -1,6 +1,6 @@
 //Player Controllers/Input Types
 
-//XBOX (maybe later?)
+//XBOX 
 
 //Keyboard
 awsd keys unity starterAssetsInputs
@@ -288,11 +288,11 @@ namespace UnityStandardAssets.CrossPlatformInput.Inspector
 *fight
 
 
-*Crouch -included
+*Crouch 
 
-*Run - included
+*Run 
 
-*Shoot (included)
+*Shoot 
 -create button under ui canvas StarterAssetsInputs_Joystick
 - duplicate button using ctrl D 
 -change name to shoot
@@ -317,12 +317,12 @@ public bool shoot;
 
 *Jump - included
 
-*Fight (script from other game?)
+*Fight 
 
-* Pick Up Objects (?)
+* Pick Up Objects 
 
 //HUD
-*Inventory Swap Out (done)
+*Inventory Swap Out 
 
 //FPSController
 
