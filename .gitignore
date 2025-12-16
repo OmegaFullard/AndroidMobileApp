@@ -1,0 +1,88 @@
+# Unity / C#
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+sysinfo.txt
+
+# User-specific and build files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.ide.*
+
+# Visual Studio / VSCode / Rider
+.vs/
+.vscode/
+.idea/
+*.sln.ide
+*.user
+*.userosscache
+*.sln.docstates
+
+# Unity generated folders
+/Assets/Plugins/Editor/JetBrains*
+/MemoryCaptures/
+/Builds/
+/Library/
+/Temp/
+obj/
+/ExportedObj/
+*.apk
+*.aab
+*.unitypackage
+
+# Android / Gradle / Kotlin / Android Studio
+.gradle/
+local.properties
+/.idea/
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.keystore
+*.jks
+*.apk
+*.ap_/
+/gradle-app.setting
+gradle-wrapper.jar
+
+# JetBrains IDEs
+.idea/
+*.iml
+out/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node / npm (if any JS snippets exist)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+yarn-debug.log*
+package-lock.json
+.pnpm-debug.log
+.pnp.*
+.pnp.js
+
+# Misc
+*.log
+*.log.*
+.crash
+*.orig
